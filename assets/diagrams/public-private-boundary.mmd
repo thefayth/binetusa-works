@@ -1,0 +1,8 @@
+flowchart TB
+  P[Public GitHub surface] --> R[README, visuals, roadmap, receipts]
+  P --> W[WordPress draft]
+  X[Private engine] --> S[Source code]
+  X --> A[Admin systems]
+  X --> B[Raw backups and private evidence]
+  X --> C[Credentials, user data, financial records]
+  R -. boundary .- X

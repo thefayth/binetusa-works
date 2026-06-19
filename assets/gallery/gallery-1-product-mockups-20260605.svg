@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200" role="img" aria-labelledby="title desc">
+  <title id="title">BiNet and biDTF desktop and mobile mockup board</title>
+  <desc id="desc">Low fidelity desktop and mobile mockups for BiNet, biDTF, shared identity dashboard, privacy controls, social discovery, verification, and advertising layouts.</desc>
+  <defs>
+    <style>
+      .bg { fill: #FFF2FA; }
+      .panel { fill: #FFFDF5; stroke: #E8C8DF; stroke-width: 2; }
+      .night { fill: #17051F; }
+      .muted { fill: #5D4D66; }
+      .ink { fill: #16091F; }
+      .label { font: 700 16px "Courier New", monospace; letter-spacing: .08em; text-transform: uppercase; }
+      .h1 { font: 400 46px Georgia, serif; }
+      .h2 { font: 700 24px Inter, Arial, sans-serif; }
+      .body { font: 500 18px Inter, Arial, sans-serif; }
+      .small { font: 500 14px Inter, Arial, sans-serif; }
+    </style>
+  </defs>
+  <rect class="bg" width="1800" height="1200"/>
+  <text x="70" y="88" class="label" fill="#D60270">Phase 1 mockups</text>
+  <text x="70" y="142" class="h1 ink">Desktop and mobile surfaces for approval</text>
+
+  <g transform="translate(70 190)">
+    <rect width="680" height="430" rx="14" class="panel"/>
+    <rect width="160" height="430" rx="14" fill="#17051F"/>
+    <text x="28" y="54" class="label" fill="#FFD800">BiNet</text>
+    <text x="28" y="96" class="small" fill="#FFFDF5">Overview</text>
+    <text x="28" y="126" class="small" fill="#FFD7ED">Discover</text>
+    <text x="28" y="156" class="small" fill="#FFD7ED">Chapters</text>
+    <text x="28" y="186" class="small" fill="#FFD7ED">Support</text>
+    <text x="200" y="62" class="label" fill="#0038A8">Relationship onboarding</text>
+    <text x="200" y="112" class="h1 ink">Find your people</text>
+    <text x="202" y="145" class="body muted">Long-term, friendship, chosen family, chapters, support.</text>
+    <g transform="translate(200 190)">
+      <rect width="145" height="74" rx="8" fill="#FFF2FA" stroke="#E8C8DF"/>
+      <text x="18" y="32" class="small ink">Friendship</text>
+      <text x="18" y="55" class="small muted">members</text>
+      <rect x="165" width="145" height="74" rx="8" fill="#FFF2FA" stroke="#E8C8DF"/>
+      <text x="183" y="32" class="small ink">Long-term</text>
+      <text x="183" y="55" class="small muted">matches</text>
+      <rect x="330" width="145" height="74" rx="8" fill="#FFF2FA" stroke="#E8C8DF"/>
+      <text x="348" y="32" class="small ink">Chapters</text>
+      <text x="348" y="55" class="small muted">city-safe</text>
+    </g>
+    <rect x="200" y="315" width="460" height="70" rx="8" fill="#0038A8"/>
+    <text x="228" y="357" class="body" fill="#FFFFFF">Join BiNet discovery with members-only visibility</text>
+  </g>
+
+  <g transform="translate(820 190)">
+    <rect width="680" height="430" rx="14" fill="#17051F" stroke="#9B4F96" stroke-width="2"/>
+    <rect x="22" y="22" width="132" height="386" rx="12" fill="#250A38"/>
+    <text x="42" y="60" class="label" fill="#FFD800">biDTF</text>
+    <text x="42" y="102" class="small" fill="#FFFDF5">Chemistry</text>
+    <text x="42" y="132" class="small" fill="#CDEEFF">Nightlife</text>
+    <text x="42" y="162" class="small" fill="#CDEEFF">Events</text>
+    <text x="42" y="192" class="small" fill="#CDEEFF">ENM</text>
+    <text x="192" y="62" class="label" fill="#FF218C">Dating surface</text>
+    <text x="192" y="112" class="h1" fill="#FFFDF5">Chemistry, with consent.</text>
+    <text x="194" y="145" class="body" fill="#CDEEFF">Private by default. Public only when chosen.</text>
+    <g transform="translate(192 190)">
+      <rect width="160" height="94" rx="8" fill="#FF218C"/>
+      <text x="18" y="34" class="small" fill="#FFFDF5">ENM-friendly</text>
+      <text x="18" y="62" class="small" fill="#FFE8F4">matches-only</text>
+      <rect x="180" width="160" height="94" rx="8" fill="#FFD800"/>
+      <text x="198" y="34" class="small" fill="#16091F">Nightlife</text>
+      <text x="198" y="62" class="small" fill="#16091F">verified RSVP</text>
+      <rect x="360" width="160" height="94" rx="8" fill="#21B1FF"/>
+      <text x="378" y="34" class="small" fill="#16091F">Chemistry</text>
+      <text x="378" y="62" class="small" fill="#16091F">opt-in only</text>
+    </g>
+    <rect x="192" y="324" width="500" height="60" rx="8" fill="#9B4F96"/>
+    <text x="220" y="361" class="body" fill="#FFFDF5">View events after age/profile verification</text>
+  </g>
+
+  <g transform="translate(70 700)">
+    <rect width="470" height="360" rx="14" class="panel"/>
+    <text x="34" y="58" class="label" fill="#9B4F96">Shared identity dashboard</text>
+    <text x="34" y="104" class="h2 ink">Visibility comes first</text>
+    <g transform="translate(34 135)">
+      <rect width="400" height="52" rx="8" fill="#FFF2FA" stroke="#E8C8DF"/>
+      <text x="18" y="33" class="small ink">Profile</text><rect x="280" y="12" width="92" height="28" rx="14" fill="#0038A8"/><text x="297" y="32" class="small" fill="#FFFFFF">members</text>
+      <rect y="68" width="400" height="52" rx="8" fill="#FFF2FA" stroke="#E8C8DF"/>
+      <text x="18" y="101" class="small ink">City</text><rect x="285" y="80" width="87" height="28" rx="14" fill="#9B4F96"/><text x="305" y="100" class="small" fill="#FFFFFF">hidden</text>
+      <rect y="136" width="400" height="52" rx="8" fill="#FFF2FA" stroke="#E8C8DF"/>
+      <text x="18" y="169" class="small ink">Sexuality</text><rect x="282" y="148" width="90" height="28" rx="14" fill="#D60270"/><text x="303" y="168" class="small" fill="#FFFFFF">private</text>
+    </g>
+  </g>
+
+  <g transform="translate(610 700)">
+    <rect width="260" height="430" rx="28" fill="#16091F"/>
+    <rect x="18" y="26" width="224" height="382" rx="18" fill="#FFFDF5"/>
+    <text x="38" y="68" class="label" fill="#0038A8">Mobile privacy</text>
+    <text x="38" y="110" class="h2 ink">Your rules</text>
+    <rect x="38" y="142" width="184" height="58" rx="8" fill="#FFF2FA" stroke="#E8C8DF"/>
+    <text x="54" y="176" class="small ink">BiNet: on</text>
+    <rect x="38" y="214" width="184" height="58" rx="8" fill="#FFF2FA" stroke="#E8C8DF"/>
+    <text x="54" y="248" class="small ink">biDTF: private</text>
+    <rect x="38" y="286" width="184" height="58" rx="8" fill="#FFF2FA" stroke="#E8C8DF"/>
+    <text x="54" y="320" class="small ink">Social links: hidden</text>
+  </g>
+
+  <g transform="translate(940 700)">
+    <rect width="300" height="430" rx="28" fill="#16091F"/>
+    <rect x="18" y="26" width="264" height="382" rx="18" fill="#17051F"/>
+    <text x="38" y="68" class="label" fill="#FFD800">Social verification</text>
+    <text x="38" y="112" class="h2" fill="#FFFDF5">Connected identities</text>
+    <rect x="38" y="145" width="224" height="62" rx="8" fill="#250A38" stroke="#9B4F96"/>
+    <text x="54" y="181" class="small" fill="#FFFDF5">Instagram</text><text x="184" y="181" class="small" fill="#FFD800">hidden</text>
+    <rect x="38" y="225" width="224" height="62" rx="8" fill="#250A38" stroke="#9B4F96"/>
+    <text x="54" y="261" class="small" fill="#FFFDF5">Bluesky</text><text x="184" y="261" class="small" fill="#21B1FF">verified</text>
+    <rect x="38" y="322" width="224" height="44" rx="8" fill="#FF218C"/>
+    <text x="76" y="350" class="small" fill="#FFFFFF">Add private link</text>
+  </g>
+
+  <g transform="translate(1320 700)">
+    <rect width="410" height="360" rx="14" class="panel"/>
+    <text x="34" y="58" class="label" fill="#D60270">Sponsor layout</text>
+    <text x="34" y="104" class="h2 ink">Promoted, reviewed, reportable</text>
+    <rect x="34" y="138" width="342" height="92" rx="8" fill="#FFF2FA" stroke="#E8C8DF"/>
+    <text x="54" y="172" class="small ink">Promoted event</text>
+    <text x="54" y="202" class="small muted">Approved local sponsor. No hidden identity targeting.</text>
+    <rect x="34" y="250" width="160" height="48" rx="8" fill="#FFD800"/>
+    <text x="60" y="280" class="small ink">Sponsor info</text>
+    <rect x="214" y="250" width="162" height="48" rx="8" fill="#FFFDF5" stroke="#D60270"/>
+    <text x="260" y="280" class="small" fill="#D60270">Report ad</text>
+  </g>
+</svg>

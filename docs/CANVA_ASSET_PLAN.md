@@ -1,0 +1,10 @@
+# Canva Asset Plan
+
+Existing project visuals were preferred. If a refresh is needed, generate: hero image 1600x900, GitHub banner 1280x640, social card 1200x630, project icon 1024x1024, workflow illustration 1600x900.
+
+Style: bisexual/pansexual pride anchors, high-trust public surface, no generic SaaS visuals, no private system screenshots.
+
+Prompt: Create a bold public project visual for BiNet USA Works: A public project surface for the BiNet USA product ecosystem, app lanes, community systems, sponsorship model, and roadmap. Use layered community, archive, identity, and protected-systems symbolism without showing private dashboards or source code.
+
+Alt text: BiNet USA Works public project visual.
+

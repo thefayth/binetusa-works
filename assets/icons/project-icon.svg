@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="BiNet icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ee6f5b" />
+      <stop offset="100%" stop-color="#e8b14b" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="108" fill="#101a2c" />
+  <circle cx="256" cy="256" r="156" fill="url(#bg)" />
+  <path d="M171 302c28 32 60 48 89 48 51 0 93-39 93-93 0-47-35-82-80-82-31 0-61 17-102 58V160h-48v205h48z" fill="#101a2c" />
+</svg>
